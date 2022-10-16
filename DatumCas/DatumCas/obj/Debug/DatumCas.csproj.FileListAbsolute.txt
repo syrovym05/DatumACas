@@ -1,0 +1,11 @@
+C:\Users\marsy\Source\Repos\DatumCas\DatumCas\bin\Debug\DatumCas.exe.config
+C:\Users\marsy\Source\Repos\DatumCas\DatumCas\bin\Debug\DatumCas.exe
+C:\Users\marsy\Source\Repos\DatumCas\DatumCas\bin\Debug\DatumCas.pdb
+C:\Users\marsy\Source\Repos\DatumCas\DatumCas\obj\Debug\DatumCas.csproj.AssemblyReference.cache
+C:\Users\marsy\Source\Repos\DatumCas\DatumCas\obj\Debug\DatumCas.csproj.SuggestedBindingRedirects.cache
+C:\Users\marsy\Source\Repos\DatumCas\DatumCas\obj\Debug\DatumCas.Form1.resources
+C:\Users\marsy\Source\Repos\DatumCas\DatumCas\obj\Debug\DatumCas.Properties.Resources.resources
+C:\Users\marsy\Source\Repos\DatumCas\DatumCas\obj\Debug\DatumCas.csproj.GenerateResource.cache
+C:\Users\marsy\Source\Repos\DatumCas\DatumCas\obj\Debug\DatumCas.csproj.CoreCompileInputs.cache
+C:\Users\marsy\Source\Repos\DatumCas\DatumCas\obj\Debug\DatumCas.exe
+C:\Users\marsy\Source\Repos\DatumCas\DatumCas\obj\Debug\DatumCas.pdb
